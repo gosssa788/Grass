@@ -5,8 +5,8 @@
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "GRASS_USER": "Aron543",
-        "GRASS_PASS": "Aron46053371@",
+        "GRASS_USER": "Aron5434",
+        "GRASS_PASS": "Aron4605337@",
         "ADMIN_USER": "admin",
         "ADMIN_PASS": "admin"
       },
