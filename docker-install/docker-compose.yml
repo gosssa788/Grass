@@ -1,7 +1,7 @@
 version: '1'
 services:
   grassminer:
-    image: aron666/aron.grassminer
+    image: gosssa788/grass
     container_name: grassminer
     environment:
       - GRASS_USER=user
